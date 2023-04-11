@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Shadow",
+        "Species": "Cat",
+        "color": "Black"
+    },
+    {
+        "Name": "Zeus",
+        "Species": "Dog",
+        "color": "white"
+    },
+    {
+        "Name": "Tammy",
+        "Species": "Hamster",
+        "color": "White and Brown"
+    },
+    {
+        "Name": "Sam",
+        "Species": "Dog",
+        "color": "Dark Brown"
+    },
+    {
+        "Name": "Squiggy",
+        "Species": "Cat",
+        "color": "Grey"
+    },
+    {
+        "Name": "Rebecca",
+        "Species": "Rat",
+        "color": "Grey"
+    }
+    ]
